@@ -1,0 +1,21 @@
+{
+  "userData": {
+    "name": "salah",
+    "email": "marroukisaleh7@gmail.com",
+    "password": "Cypress12345",
+    "age": {
+      "day": "29",
+      "month": "July",
+      "year": "1996"
+    },
+    "offres": true,
+    "firstName": "salah",
+    "lastName": "marouki",
+    "address": "Cité jhon",
+    "country": "Canada",
+    "state": "Single",
+    "city": "new_city",
+    "zipCode": "1210",
+    "phoneNumber": "54185545"
+  }
+}

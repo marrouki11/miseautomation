@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+{
+  "name": "premierpas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "rundashbord"  : "npx cypress run --record --key 961ae450-d66a-428e-aa23-dc718ceecdc7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  },
+  "description": ""
+}
